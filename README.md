@@ -1,2 +1,2 @@
 # bookbot
-First python project
+BookBot is my first project!
